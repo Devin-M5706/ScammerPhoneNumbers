@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import requests
 
+
 #   TODO Set these variables
 startPageNum = 1
 endPageNum = 1
